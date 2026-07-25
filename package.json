@@ -1,0 +1,17 @@
+{
+  "name": "builder-registry-ts",
+  "version": "1.0.0",
+  "description": "TypeScript Hardhat project for Web3 builder registry",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "deploy": "npx hardhat run scripts/deploy.ts"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@types/node": "^20.0.0",
+    "hardhat": "^2.19.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  }
+}
