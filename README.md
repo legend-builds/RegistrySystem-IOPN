@@ -3,7 +3,6 @@
 A robust Solidity smart contract and TypeScript Hardhat project designed for tracking builder profiles, metrics, and score claims within Web3 ecosystems.
 
 
-
 ## Deployed Contract Information 
 * **Network:** IOPn Testnet
 * **Contract Address:** `0x300e6B34d2fdBcc390f63fbAf2142AB173Aa3CA1`
